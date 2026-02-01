@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Страница-1" id="1WxyIeLA9U4NjTn5bteL">
+    <mxGraphModel dx="1281" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-3" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="запуск&amp;nbsp; программы" vertex="1">
+          <mxGeometry height="80" width="120" x="294" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-9" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-14" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-20" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4 блока" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-11" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="таймер" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="time_spin&lt;div&gt;установка таймера&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stop_btn/start_btn&amp;nbsp; кнопка старта/стопа" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-16" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="камера" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="camera_combo&lt;div&gt;выбор камеры и ее тест&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-23" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="черный список" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-19" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="app_input&lt;div&gt;ввод приложения&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="blacklist_widget&lt;div&gt;список приложений&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-28" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="настройки" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-26" edge="1" parent="1" source="a-qV2uxsLAwsYksKy66Q-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.56;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="a-qV2uxsLAwsYksKy66Q-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;&amp;nbsp;show_camera_сheck показ камеры" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="a-qV2uxsLAwsYksKy66Q-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="status_label статус отслежевания" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
